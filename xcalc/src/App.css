@@ -23,12 +23,12 @@
   justify-content: center; */
   font-size: calc(10px + 2vmin);
   color: white;
-  /* padding-top: 75%; */
+  padding-top: 55%;
   position: relative;
 }
 
 .inner {
-  position: relative;
+  position: absolute;
   right: 0;
   top: 0;
   bottom: 0;
