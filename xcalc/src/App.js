@@ -46,7 +46,7 @@ function App() {
             <button onClick={() => Handleclick("2")}>2</button>
             <button onClick={() => Handleclick("3")}>3</button>
             <button onClick={() => Handleclick("*")}>*</button>
-            <button onClick={Handleclear}>c</button>
+            <button onClick={Handleclear}>C</button>
             <button onClick={() => Handleclick("0")}>0</button>
             <button onClick={HandleEvaluate}>=</button>
             <button onClick={() => Handleclick("/")}>/</button>
